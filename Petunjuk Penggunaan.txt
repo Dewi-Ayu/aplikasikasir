@@ -1,5 +1,12 @@
 - PROGRAM APLIKASI KASIR -
 
+Nama Kelompok :
+
+1.   Dewi Ayu Anggraini    (1119101756)
+2.   Adinda Intan Kharisma      (1119101831)
+3.   Shinta Febriyanti   (1119101770)
+4.   Deny Nurfitra Abadi    (1119101745) 
+
 User id : admin
 Password : 123
 
