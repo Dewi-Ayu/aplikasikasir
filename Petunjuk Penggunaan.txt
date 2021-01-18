@@ -1,0 +1,15 @@
+- PROGRAM APLIKASI KASIR -
+
+User id : admin
+Password : 123
+
+CARA MENGGUNAKAN
+-> Jalankan Xampp V3.2.2
+-> Buka browser (Google)
+-> Masuk ke Localhost (PHP MyAdmin)
+-> Tambahkan/Buat Database 
+-> Import file bernama db_toko.sql 
+-> Setelah itu, klik New Tab di browsernya lalu ketik di bagian HTML : Localhost/Aplikasi Kasir (sesuai nama folder)
+-> Lalu muncul halaman web kasir
+-> Masukkan User id dan Password sesuai yang tertera diatas
+-> Selamat Menikmati...
