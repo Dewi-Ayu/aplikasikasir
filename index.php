@@ -2,7 +2,7 @@
 <?php 
 
 	/*
-	 *	PERINGATAN ! tidak untuk mengubah kode ini, kecuali jika bisa php
+	 *	
 	 */
 	 
 	session_start();
