@@ -19,4 +19,4 @@ CARA MENGGUNAKAN
 -> Setelah itu, klik New Tab di browsernya lalu ketik di bagian HTML : Localhost/Aplikasi Kasir (sesuai nama folder)
 -> Lalu muncul halaman web kasir
 -> Masukkan User id dan Password sesuai yang tertera diatas
--> Selamat Menikmati...
+-> Selesai
